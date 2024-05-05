@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-Contains class BaseModel
+Contains class BaseModel of the project
+
 """
 
 from datetime import datetime
